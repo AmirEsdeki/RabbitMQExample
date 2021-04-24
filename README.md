@@ -1,2 +1,2 @@
 # RabbitMQExample
-example implementation of publishing and consuming messages.
+Simple implementation of publishing and consuming messages.
