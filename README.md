@@ -1,2 +1,2 @@
 # RabbitMQExample
-Simple implementation of publishing and consuming messages.
+Simple RabbitMQ implementation for publishing and consuming messages.
